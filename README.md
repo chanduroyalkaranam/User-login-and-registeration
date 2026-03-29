@@ -122,24 +122,6 @@ flask-auth-system/
 
 ## 🙌 Author
 
-👤 **Your Name**
+👤 **K. Mohan Chandu**
 🎓 B.Tech Student | Flask Developer
 
----
-
-## ⭐ Support
-
-If you like this project:
-⭐ Star this repository
-🍴 Fork it
-📢 Share it
-
----
-
-## 💬 Viva Tip
-
-> “This project is a Flask-based authentication system implementing CRUD operations with session management and database connectivity.”
-
----
-
-🔥 Made with passion using Flask
