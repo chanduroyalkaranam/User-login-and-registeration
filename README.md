@@ -123,5 +123,5 @@ flask-auth-system/
 ## 🙌 Author
 
 👤 **K. Mohan Chandu**
-🎓 B.Tech Student | Flask Developer
+🎓 B.Tech Student 
 
